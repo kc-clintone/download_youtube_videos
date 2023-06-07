@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"express": "^4.18.2",
+		"ytdl-core": "^4.11.4"
+	},
+	"name": "backend",
+	"version": "1.0.0",
+	"main": "app.js",
+	"devDependencies": {},
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"author": "kc-clintone",
+	"license": "ISC",
+	"description": "youtube downloader application"
+}
